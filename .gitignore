@@ -1,0 +1,5 @@
+
+*.json
+output
+*.plist
+rec1.dSYM/Contents/Resources/DWARF/rec1
