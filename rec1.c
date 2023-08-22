@@ -53,6 +53,6 @@ int main(void) {
             printf("Unrecognized operation\n");
             while ((c = getchar()) != '\n' && c != EOF) {}
             main();
-    }
+    } 
     return 0;
 }
